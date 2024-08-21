@@ -6,6 +6,7 @@
 - 📫 How to reach me: on my social media below my profile picture :)
 - 😄 Pronouns: Nick
 - ⚡ Fun fact: Hate Computer Network but interested at Computer Security :)
+- 🕧 Soon will be an internship at #ITBCA
 
 <!--
 **ininick/ininick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
