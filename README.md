@@ -2,7 +2,8 @@
 
 
 - 🔭 I’m currently studied at BINUS University
-- 🌱 I’m currently learning Databases and Computer Security
+- 🌱 I’m currently learning Databases and IT Infrastructures/Architectures
+- 🏢 I'm currently internship as System Operator
 - 📫 How to reach me: on my social media below my profile picture :)
 - 😄 Pronouns: Nick
 - ⚡ Fun fact: Hate Computer Network but interested at Computer Security :)
